@@ -1,0 +1,11 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "--watch "
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
